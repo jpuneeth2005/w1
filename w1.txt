@@ -2,3 +2,6 @@ craeting
 file 
 for 
 practice
+add 
+new text
+. com
